@@ -46,8 +46,7 @@ python cryptopia_chatbot.py
 - Created `handle_profitability_query()` for investment-related questions
 
 ### 🔹 YewandeMorris
-- Handled confusing or vague user input
-- Wrote fallback messages and helped test weird edge cases
+
 
 ### 🔹 CipheredBits
 - Set up GitHub repo + folder structure
