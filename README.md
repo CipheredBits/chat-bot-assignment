@@ -33,19 +33,19 @@ python cryptopia_chatbot.py
 
 ## Team Contributions
 
-### 🔹 Nzula
+### 🔹priscillanzula
 - Designed the bot's tone and personality (friendly + professional)
 - Built the user input system and chatbot loop (`while True:` interaction)
 
-### 🔹 Doreen
+### 🔹 Doreenmongina
 - Implemented the sustainability logic
 - Created `handle_sustainability_query()` to recommend eco-friendly coins
 
-### 🔹 Orji
+### 🔹golibemartha
 - Implemented the profitability logic
 - Created `handle_profitability_query()` for investment-related questions
 
-### 🔹 Yewande
+### 🔹 YewandeMorris
 - Handled confusing or vague user input
 - Wrote fallback messages and helped test weird edge cases
 
@@ -82,4 +82,4 @@ Cryptopia:
 
 ---
 
-🔒 *All work is original and done by our team. No external AI models were used to generate advice.*
+
